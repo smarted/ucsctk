@@ -1,0 +1,5 @@
+genome_version	mm9,hg19
+hub	NarDataHub20180715
+shortLabel	NAR's data hub
+longLabel	Data visualization for NAR's data (for reviews)
+email	zhoujj2013@gmail.com
